@@ -16,15 +16,13 @@
 - **FPS**: 25+ on standard laptop
 - **Demo**: [Watch here](demo.gif)
 
-## 🚀 Quick Start
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## Tech Stack 
 
+OpenCV | NumPy | Streamlit | Python 3.9+
 
 ## Usage:
 
-### 1. Set up the environment 
+## 1. Set up the environment 
 `conda env create -f environment.yml`
 
 To activate the environment:
@@ -33,8 +31,13 @@ Window: `conda activate carnd`
 
 Linux, MacOS: `source activate carnd`
 
-### 2. Run the pipeline:
+## 2. Run the pipeline:
 ```bash
 python main.py INPUT_IMAGE OUTPUT_IMAGE_PATH
 python main.py --video INPUT_VIDEO OUTPUT_VIDEO_PATH
 ```
+## 🚀 Quick Start
+```bash
+pip install -r requirements.txt
+streamlit run app.py.
+
