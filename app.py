@@ -4,7 +4,7 @@ from src.lane_detector import LaneDetector
 import numpy as np
 from PIL import Image
 
-st.title("🚗 Pinnacle Lane Detection Demo")
+st.title("🚗 Lane Detection Demo")
 st.write("Upload video/image for real-time lane detection")
 
 detector = LaneDetector()
