@@ -13,7 +13,7 @@ A comprehensive lane detection system implementing both traditional computer vis
 - **Robust Pipeline**: Handles various road conditions
 
 ## 📊 Results
-- **Accuracy**: 92% on TuSimple dataset
+- **Accuracy**: 92% on TuSimple datasets
 - **FPS**: 25+ on standard laptop
 - **Demo**: [Watch here](demo.gif)
 
