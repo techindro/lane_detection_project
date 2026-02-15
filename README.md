@@ -1,7 +1,7 @@
 ## Lane_detection_project
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-**Detection of Road Lane Lines** - Computer Vision project using OpenCV & Python
+**Detection of Road Lane Lines** - Computer Vision project using OpenCV & Python  
 ## 🎯 Project Overview
 A comprehensive lane detection system implementing both traditional computer vision and deep learning approaches for Data Science Pinnacle internship evaluation.
 
